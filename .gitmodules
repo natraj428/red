@@ -1,0 +1,3 @@
+[submodule "bike/yogi"]
+	path = bike/yogi
+	url = https://github.com/natraj428/yogi.git
